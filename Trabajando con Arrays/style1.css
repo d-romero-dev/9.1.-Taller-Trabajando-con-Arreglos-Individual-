@@ -1,0 +1,46 @@
+/*Extra: Agregado estilos en CSS para una visualización más atractiva*/
+
+body {  
+    
+    font-family: Arial, sans-serif;
+    background-color: #E8AC41;
+    margin: 10px;
+    padding: 10px;
+}
+
+.container { 
+    max-width: 600px;
+    margin: 0 auto;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+}
+
+
+h1 {
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    color: #82204A;
+}
+
+body p {
+    color:white;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+li {
+    margin-bottom: 10px;
+    padding: 5px 10px;
+    background-color: #A1E8CC;
+    border: 1px solid #82204A;
+    border-radius: 3px;
+    color: #333;
+}
+  
+  
+ 
